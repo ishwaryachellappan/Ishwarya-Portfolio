@@ -20,13 +20,13 @@ const projects = [
   },
   {
     title: "SAMA Dashboard",
-    description: "[What does SAMA stand for / what does it do? One sentence on the problem it solves.]",
+   description: "A multi-tab payment operations dashboard — Overview, Exceptions, Reconciliation, Rail Health, and Audit — tracking payment KPIs, status breakdowns, exception queues, and rail health across clearing areas. Built with SAP UI5 (Fiori freestyle, XML views), sap.viz charts, and a RAP-based OData V4 service (ZPE_SD_PO_DATA) on SAP BTP/ABAP.",
     tags: ["SAP", "SAPUI5"],
     link: "https://github.com/ishwaryachellappan/Payment_dashboard"
   },
   {
     title: "Loan Application",
-    description: "[What kind of loan app — origination, approval workflow, tracking? One sentence + the tech stack.]",
+    description: "A loan approval and exception management cockpit — priority-ranked exception queue, document/credit/risk validation engine, officer assignment recommendation, and an operations dashboard tracking SLA breaches, risk bands, and queue ageing. Built with SAP CAP (Node.js), Fiori Elements, SAPUI5, OData V4, and SQLite.",
     tags: ["SAP"],
     link: "https://github.com/ishwaryachellappan/Loan-Approval-Cockpit"
   }

@@ -27,7 +27,7 @@ const experience = [
   {
     role: "Full Stack Developer Trainee",
     company: "Cognizant",
-    period: "[exact dates?]",
+    period: "Feb 2022 — Aug 2022",
     description: "Trained in full stack development using the MEAN stack, building foundational web development skills ahead of moving into SAP."
   }
 ];
