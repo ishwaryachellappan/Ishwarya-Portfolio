@@ -34,7 +34,7 @@ const projects = [
       { type: "image", src: "assets/payment-ops-1.png" },
       { type: "image", src: "assets/payment-ops-2.png" },
       { type: "image", src: "assets/payment-ops-3.png" }
-       
+
     ]
   },
   {
@@ -43,7 +43,18 @@ const projects = [
     tags: ["SAP"],
     link: "https://github.com/ishwaryachellappan/Loan-Approval-Cockpit",
     github: null,
-    media: []
+    media: [
+      { type: "image", src: "assets/image (6).png" },
+      { type: "image", src: "assets/image (7).png" },
+      { type: "image", src: "assets/image (8).png" },
+      { type: "image", src: "assets/image (9).png" },
+      { type: "image", src: "assets/image (10).png" },
+      { type: "image", src: "assets/image (11).png" },
+      { type: "image", src: "assets/image (12).png" },
+      { type: "image", src: "assets/image (13).png" },
+      { type: "image", src: "assets/image (14).png" }
+
+    ]
   }
 ];
 
