@@ -3,7 +3,7 @@ const projects = [
     title: "Payment Operations Dashboard",
     description: "Full stack Payment Operations app on SAP CAP with role-based admin and user login, CDS data models and @cap-js/sqlite persistence — covering an admin KPI dashboard and a payments approval/rejection workflow with backend-enforced authorization.",
     tags: ["SAP CAP", "SAPUI5", "OData V4", "CDS"],
-    link: "https://github.com/ishwaryachellappan/Payment-operation-Application",
+    link: "https://github.com/ishwaryachellappan/Payment-Dashboard",
     github: null,
     media: []
   },
