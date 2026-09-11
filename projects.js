@@ -60,7 +60,7 @@ const projects = [
   {
     title: "Loan Application",
     description: "A loan approval and exception management cockpit — priority-ranked exception queue, document/credit/risk validation engine, officer assignment recommendation, and an operations dashboard tracking SLA breaches, risk bands, and queue ageing. Built with SAP CAP (Node.js), Fiori Elements, SAPUI5, OData V4, and SQLite.",
-    tags: ["SAP"],
+    tags: ["RAP", "SAPUI5", "CDS"],
     link: "https://github.com/ishwaryachellappan/Loan-Approval-Cockpit",
     github: null,
     media: [
@@ -75,6 +75,14 @@ const projects = [
       { type: "image", src: "assets/image (14).png" }
 
     ]
+  },
+  {
+    title: "Retail Banking Dashboard",
+    description: "A multi-page Retail Deposits Dashboard — covering Deposits Dashboard, Customer Directory, Customer Details, Account Directory, Account Details, Product Directory, and guided Customer/Account/Fund Account flows. Built with SAPUI5/Fiori freestyle (TypeScript, XML views, sap.m routing) and integrated with SAP Core Banking (IFS_500) through custom and standard OData V2/V4 services, ABAP CDS views, and a SOAP Business Partner creation service.",
+    tags: ["RAP", "SAPUI5", "CDS"],
+    link: null,
+    github: null,
+    media: []
   }
 ];
 
