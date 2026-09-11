@@ -3,9 +3,29 @@ const projects = [
     title: "Payment Operations Dashboard",
     description: "Full stack Payment Operations app on SAP CAP with role-based admin and user login, CDS data models and @cap-js/sqlite persistence — covering an admin KPI dashboard and a payments approval/rejection workflow with backend-enforced authorization.",
     tags: ["SAP CAP", "SAPUI5", "OData V4", "CDS"],
-    link: "https://github.com/ishwaryachellappan/Payment-Dashboard",
-    github: null,
-    media: []
+    link: null,
+    github: "https://github.com/ishwaryachellappan/Payment-Dashboard",
+    media: [
+      { type: "image", src: "assets/image (16).png" },
+      { type: "image", src: "assets/image (17).png" },
+      { type: "image", src: "assets/image (18).png" },
+      { type: "image", src: "assets/image (19).png" },
+      { type: "image", src: "assets/image (20).png" },
+      { type: "image", src: "assets/image (21).png" },
+      { type: "image", src: "assets/image (22).png" },
+      { type: "image", src: "assets/image (23).png" },
+      { type: "image", src: "assets/image (24).png" },
+      { type: "image", src: "assets/image (25).png" },
+      { type: "image", src: "assets/image (26).png" },
+      { type: "image", src: "assets/image (27).png" },
+      { type: "image", src: "assets/image (28).png" },
+      { type: "image", src: "assets/image (29).png" },
+      { type: "image", src: "assets/image (30).png" },
+      { type: "image", src: "assets/image (31).png" }
+
+
+
+    ]
   },
   {
     title: "Milestone Management",
